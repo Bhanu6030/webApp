@@ -1,1 +1,3 @@
-echo "<?php echo 'Hello This is php file'; ?>"
+<?php
+echo "Hello This is php file";
+?>
